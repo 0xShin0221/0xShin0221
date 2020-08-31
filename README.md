@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sintaro&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sintaro&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sintaro)](https://github.com/ryo-ma/github-profile-trophy)

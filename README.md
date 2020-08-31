@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sintaro&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sintaro&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sintaro&layout=compact&count_private=true" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sintaro&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sintaro)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=sintaro" />
+</a>

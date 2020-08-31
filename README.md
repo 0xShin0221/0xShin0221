@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sintaro&count_private=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sintaro&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sintaro&layout=compact&count_private=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sintaro&layout=compact&count_private=true" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sintaro)](https://github.com/ryo-ma/github-profile-trophy)

@@ -1,4 +1,8 @@
 
+[![Twitter](https://img.shields.io/twitter/follow/sintaro0221?style=social)](https://twitter.com/sintaro0221)
+
+
+
 <!--
 **sintaro/sintaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

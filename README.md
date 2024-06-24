@@ -1,5 +1,5 @@
 
-[![Twitter](https://img.shields.io/twitter/follow/sintaro0221?style=social)](https://twitter.com/sintaro0221)
+[![Twitter](https://img.shields.io/twitter/follow/0xShin0221?style=social)](https://twitter.com/0xShin0221)
 
 
 
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sintaro&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xShin0221&count_private=true" />
 </a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sintaro&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xShin0221&column=3)](https://github.com/ryo-ma/github-profile-trophy)

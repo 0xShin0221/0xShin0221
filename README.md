@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xShin0221&count_private=true" />
 </a>
-
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xShin0221&column=3)](https://github.com/ryo-ma/github-profile-trophy)

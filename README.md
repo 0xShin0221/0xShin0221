@@ -1,5 +1,5 @@
 
-[![Twitter](https://img.shields.io/twitter/follow/0xShin0221?style=social)](https://twitter.com/0xShin0221)
+[![Twitter](https://img.shields.io/twitter/follow/0xShin0221?style=social)]([https://twitter.com/0xShin0221](https://x.com/0xShin0221_jp))
 
 
 
